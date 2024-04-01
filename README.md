@@ -1,2 +1,2 @@
 # Jogo da velha
- Projeto em lingusgem C visando solidificar meus conhecimentos na linguagem
+ Projeto em linguagem C visando solidificar meus conhecimentos
